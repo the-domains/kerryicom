@@ -1,0 +1,14 @@
+layout_spectrum: 0.3044464469421655
+typography_spectrum: 0.24618564220145345
+color:
+  brandStrength: 0.8047725695651025
+  lightness: 0.9589323049876839
+  saturation: 0.6092083523981273
+  rhythmicContrast: 0.2687905521597713
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: kerryi.com
