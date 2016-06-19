@@ -1,22 +1,25 @@
-typography_spectrum: 0.24618564220145345
+typography_spectrum: 0.4009454583283514
 color:
-  brandStrength: 0.8047725695651025
-  lightness: 0.9589323049876839
-  saturation: 0.6092083523981273
-  rhythmicContrast: 0.2687905521597713
+  brandStrength: 0.1253494475968182
+  lightness: 0.9128719437867403
+  saturation: 0.847190213156864
+  rhythmicContrast: 0.9647263777442276
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 opengraph:
-  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/54abd3a4-4cbd-475a-b5fc-4840a8836666.jpg'
-layout_spectrum: 0.3044464469421655
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/54abd3a4-4cbd-475a-b5fc-4840a8836666.jpg
+layout_spectrum: 0.6477338729891926
 author:
   name: Kerry I Holyoak
   email: kerry.i.holyoak@gmail.com
   url: thegrid.ai/kerry
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f92e0ac-a1da-454d-8d1c-0c2ece09c0ec.png'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f92e0ac-a1da-454d-8d1c-0c2ece09c0ec.png
 name: kerryi
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/18262817-a2aa-4fa2-848f-4e3453b505e1.png'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/18262817-a2aa-4fa2-848f-4e3453b505e1.png
