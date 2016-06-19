@@ -1,18 +1,30 @@
 ---
-description: 'When I moved to Kansas in 2006 I was inspired by many of the women I became friends with who would bake authentic homemade bread from scratch. My good friend Roseanne taught me how to bake her family’s recipe. I was so excited to learn this recipe that I told my family we would not be buying anymore commercially baked bread. My husband and two daughters were good-natured about this decision, which happened to coincide with a “get-healthy” initiative that involved reducing our sugar intake. For the next year I baked bread for my family at least once a week, and they would dutifully eat the bread. I will admit it wasn’t as amazing as Roseanne’s bread. My family was very supportive of my efforts and they didn’t want to dampen my enthusiasm, which means that they all avoided telling me that it didn’t taste very good. It was dense and heavy and very white. I couldn’t get it to rise or turn a golden brown color.'
-dateModified: '2016-06-02T00:52:19.854Z'
-datePublished: '2016-06-02T00:52:59.598Z'
+description: >-
+  When I moved to Kansas in 2006 I was inspired by many of the women I became
+  friends with who would bake authentic homemade bread from scratch. My good
+  friend Roseanne taught me how to bake her family’s recipe. I was so excited to
+  learn this recipe that I told my family we would not be buying anymore
+  commercially baked bread. My husband and two daughters were good-natured about
+  this decision, which happened to coincide with a “get-healthy” initiative that
+  involved reducing our sugar intake. For the next year I baked bread for my
+  family at least once a week, and they would dutifully eat the bread. I will
+  admit it wasn’t as amazing as Roseanne’s bread. My family was very supportive
+  of my efforts and they didn’t want to dampen my enthusiasm, which means that
+  they all avoided telling me that it didn’t taste very good. It was dense and
+  heavy and very white. I couldn’t get it to rise or turn a golden brown color.
+dateModified: '2016-06-19T21:47:43.931Z'
+datePublished: '2016-06-19T21:57:26.353Z'
 title: '"Second to None" is not a good thing!'
 author: []
-starred: false
 sourcePath: _posts/2016-06-02-second-to-none-is-not-a-good-thing.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9da129e-88ef-4b67-b3d8-6632bf06caa6.jpg" /><h1>"Second to None" is not a good thing!</h1><p>How I learned to bake homemade bread without a bread machine...</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98308f8d5b762a696c353ea0054e871a586aa69d.jpg" /><h1>"Second to None" is not a good thing!</h1><p>How I learned to bake homemade bread without a bread machine...</p></article>
 
 When I moved to Kansas in 2006 I was inspired by many of the women I became friends with who would bake authentic homemade bread from scratch. My good friend Roseanne taught me how to bake her family's recipe. I was so excited to learn this recipe that I told my family we would not be buying anymore commercially baked bread. My husband and two daughters were good-natured about this decision, which happened to coincide with a "get-healthy" initiative that involved reducing our sugar intake. For the next year I baked bread for my family at least once a week, and they would dutifully eat the bread. I will admit it wasn't as amazing as Roseanne's bread. My family was very supportive of my efforts and they didn't want to dampen my enthusiasm, which means that they all avoided telling me that it didn't taste very good. It was dense and heavy and very white. I couldn't get it to rise or turn a golden brown color.
 
