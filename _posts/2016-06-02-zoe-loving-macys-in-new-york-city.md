@@ -1,15 +1,18 @@
 ---
-description: photography by Kerry I Holyoak
-dateModified: '2016-06-01T22:21:44.980Z'
-datePublished: '2016-06-02T00:52:54.617Z'
-title: "Zoe loving Macy's in New York City"
+description: ''
+dateModified: '2016-06-19T21:48:28.814Z'
+datePublished: '2016-06-19T21:57:13.543Z'
+title: Zoe’s Tribute to Audrey Hepburn
 author: []
-starred: false
 sourcePath: _posts/2016-06-02-zoe-loving-macys-in-new-york-city.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><h1>Zoe loving Macy's in New York City</h1><p>photography by Kerry I Holyoak</p></article>
+# Zoe's Tribute to Audrey Hepburn
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a89064cf-b57b-48c0-813d-32a02ba313ad.jpg)
+
+<article style=""><h1>Zoe's </h1><p>photography by Kerry I Holyoak</p></article>
