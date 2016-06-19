@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-01T22:17:55.554Z'
+datePublished: '2016-06-19T21:57:52.944Z'
+sourcePath: _posts/2016-06-01-kansas-sunflowers.md
 author: []
-dateModified: '2016-06-01T22:17:04.054Z'
+dateModified: '2016-06-19T21:49:14.005Z'
 title: Kansas Sunflowers
 description: photography by Kerry I Holyoak
 starred: false
-sourcePath: _posts/2016-06-01-kansas-sunflowers.md
 inFeed: true
 hasPage: true
 inNav: false
